@@ -2,7 +2,7 @@
 
 Sobre mim:
 
-Sou um Engenheiro de Produçao que gosta de tecnologia, atualmente estou em transição de carreira para area de Dados onde pretendo atuar como Cientista de Dados.
+Sou um Engenheiro de Produçao que gosta de tecnologia, atualmente estou em transição de carreira para area de Dados onde pretendo atuar como Analista de Dados.
 
  
 Habilidades:
